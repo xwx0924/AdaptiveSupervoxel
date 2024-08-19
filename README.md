@@ -1,10 +1,6 @@
 # Adaptive Video Supervoxel Segmentation via Energy-Guided Bottom-Up Clustering
 ![](method.png)
 
-We provide the source code that tested on Windows for the paper: 
-> **Adaptive Video Supervoxel Segmentation via Energy-Guided Bottom-Up Clustering**
->
-
 ## Runtime Environment 
 ```
 The project requires: OpenGL 4.2 or later; Eigen library; OpenCV with GPU support.

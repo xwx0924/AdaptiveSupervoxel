@@ -1,0 +1,614 @@
+﻿  covariance.cpp
+  global_variables.cpp
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(337): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(371): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(375): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(377): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(464): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(480): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(482): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(483): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(484): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(489): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxgeoprims.h(91): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.h(11): warning C4305: “初始化”: 从“double”到“float”截断
+  image.cpp
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(337): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(371): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(375): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(377): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(464): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(480): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(482): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(483): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(484): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(489): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\gfx.h(44): warning C4005: “MIN”: 宏重定义
+  c:\workspace\vsworkspace\glfw_glad_opencv\opencv_4_5_4_cuda\install\include\opencv2\core\cvdef.h(489): note: 参见“MIN”的前一个定义
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\gfx.h(45): warning C4005: “MAX”: 宏重定义
+  c:\workspace\vsworkspace\glfw_glad_opencv\opencv_4_5_4_cuda\install\include\opencv2\core\cvdef.h(493): note: 参见“MAX”的前一个定义
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxgeoprims.h(91): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.h(11): warning C4305: “初始化”: 从“double”到“float”截断
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(367): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(414): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(415): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  mat2.cxx
+  mat3.cxx
+  mat4.cxx
+  mixmops.cxx
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(91): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(95): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(104): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(106): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(114): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(118): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(120): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(150): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.cxx(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  mixmsg.cxx
+  MxHeap.cxx
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxheap.cxx(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxheap.cxx(62): warning C4018: “<”: 有符号/无符号不匹配
+  MxMat3-jacobi.cxx
+  MxMat4-jacobi.cxx
+  MxMatrix.cxx
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+  MxQMetric.cxx
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(61): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(78): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(146): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixvops.h(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mixmops.h(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxqmetric.cxx(20): warning C4018: “<”: 有符号/无符号不匹配
+  MxQMetric3.cxx
+  main.cpp
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(337): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(371): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(375): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(377): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(464): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(480): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(482): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(483): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(484): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(489): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\main.cpp(89): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  optimizer.cpp
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\include\qslim\metric\mxgeoprims.h(91): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.h(11): warning C4305: “初始化”: 从“double”到“float”截断
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(337): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(371): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(375): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(377): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(464): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(480): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(482): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(483): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(484): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(489): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(69): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(162): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(340): warning C4244: “=”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(341): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(342): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(344): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(345): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(346): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(348): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(349): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(350): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(352): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(353): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(354): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(355): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(356): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(357): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(359): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(360): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(361): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(362): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(363): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(364): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(411): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(422): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(423): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(424): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(429): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(433): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(443): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(556): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(704): warning C4244: “=”: 从“PixelIdx”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(705): warning C4244: “=”: 从“ClusterIdx”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(706): warning C4244: “=”: 从“ClusterIdx”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(707): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(803): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(820): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(839): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(902): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(916): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(993): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(1034): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(1062): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\optimizer.cpp(1081): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+  render.cpp
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(337): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(371): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(375): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(377): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(464): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(480): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(482): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(483): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(484): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\octree.h(489): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\render.cpp(122): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  glad.c
+  正在生成代码
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(217): warning C4715: “Image::init_image_texture”: 不是所有的控件路径都返回值
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(158): warning C4715: “Image::init_flood_texture”: 不是所有的控件路径都返回值
+c:\workspace\vsworkspace\sv_application\adaptivesupervoxel\adaptivesupervoxel\image.cpp(112): warning C4715: “Image::init_cluster_texture”: 不是所有的控件路径都返回值
+  All 2344 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AdaptiveSupervoxel.vcxproj -> C:\Workspace\VSWorkspace\SV_Application\AdaptiveSupervoxel\x64\Release\AdaptiveSupervoxel.exe
